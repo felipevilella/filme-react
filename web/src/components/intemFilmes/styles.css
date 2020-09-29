@@ -1,0 +1,47 @@
+.boxFilme {
+    position: relative;
+    width: 736px;
+    height: 253px;
+    background: #FFFFFF;
+    
+    border: 1px solid #E6E6F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: row;
+}
+
+.poster {
+    display: flex;
+}
+.descricao {
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.descricao h2 {
+    color: black;
+}
+
+.descricao h4 {
+    padding-top: 5px;
+    color: black;
+}
+.star{
+    width: 4%;
+}
+
+.descricao .detalhar {
+    margin-top: 130px;
+    margin-left: 400px;
+
+    height: 25px;
+    width: 100px;
+    background: green;
+    border-radius: 8px;
+    color: #FFF;
+}

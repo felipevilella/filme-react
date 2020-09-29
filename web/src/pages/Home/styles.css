@@ -1,0 +1,59 @@
+.page-home {
+    display: flex;
+    width: 100%;
+    height: 272px;
+    left: 0px;
+    top: 0px;
+    background-color:#04D361;
+}
+
+.formulario {
+    position: relative;
+    height: 88px;
+    left: 30%;
+    top: 212px;
+    display: flex;
+}
+
+.campos {
+    display: flex;
+    flex-direction: row;
+}
+
+.campos field {
+    padding-left: 4%;
+}
+
+.inputCampo {
+    width: 235px;
+    height: 56px;
+    
+    border: 1px solid #E6E6F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding-left: 5px;
+}
+
+.page-home .search {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 100%;
+    height: 30px;
+
+
+    padding-left: 10px;
+    background: #FFF;
+    border-radius: 8px;
+    color: #000;
+}
+
+.label {
+    color: #FFF;
+}
+
+.listaFilmes {
+    position: relative;
+    top: 100px;
+    padding-left: 20%;
+}
