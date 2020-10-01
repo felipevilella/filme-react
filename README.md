@@ -17,7 +17,7 @@
    - Tela com informações detalhadas do film
    - Teste unitario (Jest)
    - Uma boa estrutura de projeto
-   
+   - Integração de API
    
 # Decisões de projeto
   - Foi derteminado o foco maior na estrutura do projeto e nas funções tais como (ordenaçãoPorNome, buca de livro por nome e ano implementação do redux com as funcionalidade do hooks), devido alguns contra-tempos ocorrido no projeto não foi possivel realizar o teste unitario por demandar um pouco mais de tempo para está estudando para entrega de uma melhor maneira, assim focamos entregar na minima funcionalidade solicita para a realização do projeto. 
