@@ -38,6 +38,20 @@
     padding-top: 5px;
     color: black;
 }
+.descricao p {
+    padding-top: 10px;
+    color: black;
+}
+
+.descricao h6 {
+    padding-top: 20px;
+    color: black;
+}
+
+.descricao .outros {
+    padding-top: 40px;
+    color: black;
+}
 .star{
     width: 4%;
 }
